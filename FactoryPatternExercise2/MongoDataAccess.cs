@@ -8,14 +8,15 @@ namespace FactoryPatternExercise2
 {
     internal class MongoDataAccess : IDataAccess
     {
-        public void LoadData()
+        public List<Product> LoadData()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("I am reading data from the MongoDataAccess database.");
+            return new List<Product>();
         }
 
         public void SaveData()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("I am saving data to the MongoDataAccess database.");
         }
     }
 }

@@ -8,7 +8,7 @@ namespace FactoryPatternExercise2
 {
     internal interface IDataAccess
     {
-        void LoadData();
+        List <Product> LoadData();
 
         void SaveData();
     }

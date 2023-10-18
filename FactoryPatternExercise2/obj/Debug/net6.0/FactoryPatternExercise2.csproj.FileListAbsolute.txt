@@ -1,0 +1,4 @@
+C:\Users\CJ\Desktop\code-class\true-coders\repos-tc\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CJ\Desktop\code-class\true-coders\repos-tc\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfoInputs.cache
+C:\Users\CJ\Desktop\code-class\true-coders\repos-tc\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfo.cs
+C:\Users\CJ\Desktop\code-class\true-coders\repos-tc\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.csproj.CoreCompileInputs.cache

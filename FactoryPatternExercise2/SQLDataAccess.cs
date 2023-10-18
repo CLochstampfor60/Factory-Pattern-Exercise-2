@@ -8,14 +8,15 @@ namespace FactoryPatternExercise2
 {
     internal class SQLDataAccess : IDataAccess
     {
-        public void LoadData()
+        public List<Product> LoadData()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("I am reading data from the SQLDataAccess database.");
+            return new List<Product>();
         }
 
         public void SaveData()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("I am saving data to the SQLDataAccess database.");
         }
     }
 }
