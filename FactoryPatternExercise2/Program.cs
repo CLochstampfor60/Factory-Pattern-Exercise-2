@@ -8,8 +8,13 @@
             var userResponse = Console.ReadLine();
     
             IDataAccess newData = DataAccessFactory.GetDataAccess(userResponse);
-            newData.LoadData();
+
+            List <Product> products = newData.LoadData();
             newData.SaveData();
+
+            Console.WriteLine();
+            Console.WriteLine("-----------------------");
+
 
         }
     }

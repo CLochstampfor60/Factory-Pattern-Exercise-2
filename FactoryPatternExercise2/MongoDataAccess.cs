@@ -10,13 +10,13 @@ namespace FactoryPatternExercise2
     {
         public List<Product> LoadData()
         {
-            Console.WriteLine("I am reading data from the MongoDataAccess database.");
+            Console.WriteLine("Reading data from the MongoDataAccess database.");
             return new List<Product>();
         }
 
         public void SaveData()
         {
-            Console.WriteLine("I am saving data to the MongoDataAccess database.");
+            Console.WriteLine("Saving data to the MongoDataAccess database.");
         }
     }
 }
